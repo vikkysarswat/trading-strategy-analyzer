@@ -1,0 +1,48 @@
+=== TRADING RULE BOOK ===
+Date: October 2025
+Strategy: Momentum Intraday Trading
+
+ENTRY RULES:
+1. Enter only between 9:30 AM - 2:30 PM IST
+2. Minimum price movement: 0.5% from day's open
+3. Volume must be 1.5x average volume
+4. Entry only on breakout confirmation (candle close above/below level)
+5. Maximum 3 trades per symbol per day
+6. Avoid entries in first 15 minutes after market open
+
+POSITION SIZING:
+- Risk per trade: 1% of capital
+- Maximum open positions: 5 concurrent trades
+- Position size calculated based on stop loss distance
+
+STOP LOSS RULES:
+- Stop loss: 1% below entry for BUY, 1% above entry for SELL
+- Trailing stop: Move to breakeven after 0.5% profit
+- Maximum loss per day: 3% of capital
+
+TARGET RULES:
+- Primary target: 2% (Risk:Reward = 1:2)
+- Secondary target: 3% (Risk:Reward = 1:3)
+- Book 50% profit at primary target, trail rest
+
+EXIT RULES:
+- Exit all positions by 3:15 PM IST
+- Exit immediately if news event or unusual volatility
+- No averaging down on losing positions
+
+SYMBOLS TO TRADE:
+- Nifty 50 stocks only
+- Focus on high liquidity stocks
+- Preferred sectors: Banking, IT, Auto
+
+RISK MANAGEMENT:
+- Maximum capital deployed: 70% of trading capital
+- Reserve 30% for opportunities
+- Stop trading for the day after 3 consecutive losses
+- Review and adjust strategy weekly based on performance
+
+PSYCHOLOGICAL RULES:
+- Follow the plan, avoid emotional decisions
+- Journal every trade with entry/exit reasoning
+- No revenge trading after stop loss hits
+- Take breaks after big wins or losses
