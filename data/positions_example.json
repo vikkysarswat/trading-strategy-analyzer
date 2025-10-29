@@ -1,0 +1,44 @@
+[
+  {
+    "position_id": "P001",
+    "symbol": "BHARTIARTL",
+    "side": "BUY",
+    "entry_time": "2025-10-29 14:30:00",
+    "entry_price": 1545.60,
+    "current_price": 1552.35,
+    "quantity": 8,
+    "unrealized_pnl": 54.00,
+    "unrealized_pnl_percent": 0.44,
+    "stop_loss": 1530.00,
+    "target": 1575.00,
+    "time_in_position_mins": 45
+  },
+  {
+    "position_id": "P002",
+    "symbol": "SBIN",
+    "side": "BUY",
+    "entry_time": "2025-10-29 14:00:00",
+    "entry_price": 625.45,
+    "current_price": 621.80,
+    "quantity": 20,
+    "unrealized_pnl": -73.00,
+    "unrealized_pnl_percent": -0.58,
+    "stop_loss": 619.00,
+    "target": 640.00,
+    "time_in_position_mins": 75
+  },
+  {
+    "position_id": "P003",
+    "symbol": "MARUTI",
+    "side": "SELL",
+    "entry_time": "2025-10-29 13:45:00",
+    "entry_price": 12850.75,
+    "current_price": 12795.20,
+    "quantity": 1,
+    "unrealized_pnl": 55.55,
+    "unrealized_pnl_percent": 0.43,
+    "stop_loss": 12950.00,
+    "target": 12650.00,
+    "time_in_position_mins": 90
+  }
+]
